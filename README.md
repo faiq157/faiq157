@@ -3,25 +3,16 @@
 <p><em>Computer Scientist at <a href="http://www.unb.br">University of Engineering and Technology Mardan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="Remotly Arbisoft">ThoughtWorks</a><img src="file:///C:/Users/Administrator/Desktop/faiq.png" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiqahmad10/)](https://www.linkedin.com/in/faiqahmad10/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/faiq157)
-
-
-### <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#query=programmer&position=7&from_view=keyword&track=sph&uuid=a50b525f-2dc0-48a3-a2c1-9fa3ff9b9db0)" width="50"> A little more about me...  
+[![Linkedin: Faiq Ahmad]([https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiqahmad10/)](https://www.linkedin.com/in/faiqahmad10/](https://www.linkedin.com/in/faiqahmad10))
+[![GitHub Faiq Ahmad]([[https://github.com/faiq157](https://github.com/faiq157))
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const Faiq = {
+  pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and javscript"
 }
 ```
 

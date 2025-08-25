@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Faiq Ahmad! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Faiq Ahmad! </h2>  
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Computer Scientist at <a href="http://www.unb.br">University of Engineering and Technology Mardan</a></br>Front-end Engineer at <a href="">Objex</a><img src="file:///C:/Users/Administrator/Desktop/faiq.png" width="30"> 
 </em></p>

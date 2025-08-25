@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Faiq Ahmad! </h2>  
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 <p><em>Computer Scientist at <a href="http://www.unb.br">University of Engineering and Technology Mardan</a></br>Full Stack Engineer
 </em></p>
 
